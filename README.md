@@ -32,7 +32,7 @@ East Austin – east of 35, south of Mueller, north of Riverside, west of 183
 10/3: Presentations
 
 ## Github Management:
-Merge Master: ??
+Merge Master: Tyler 
 
 ## Data Sources: 
 Topic 1: https://fred.stlouisfed.org/series/ATNHPIUS12420Q
