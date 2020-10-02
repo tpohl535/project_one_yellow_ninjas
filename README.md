@@ -7,7 +7,7 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 ![alt text](https://cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
 
 <br> <br> <br> 
-### Questions:
+### Our Questions (i.e. measures of gentrification):
 1. How have income and house values changed over time? 
 2. Is there more Section 8 housing (government assisted housing) in East Austin, and is the number of units increasing? 
 3. What does the school data – ethnicity/race, STAAR scores, enrollment, free and reduced lunch - say about poverty in East Austin?
