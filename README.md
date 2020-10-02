@@ -62,6 +62,8 @@ Add any notes from Maria and Priyanka
 
 ## Conclusion
 
+
+
 <br> <br> <br> 
 ![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
 <br> <br> <br> 
