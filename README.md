@@ -1,19 +1,11 @@
 # Gentrification in East Austin from 2015-2019
 
-
-## Group Name: 
-Yellow Ninjas
-
-### Hypothesis: 
+## Hypothesis: 
 Poverty will be more concentrated in East Austin in 2015 as compared to the rest of the city, and as time goes on the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether. 
 
 
 ![alt text](https://cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
 
-
-### Definition of East Austin: 
-Zip Codes: 78721, 78702, 78722, 78723, 78762 <br>
-(east of 35, south of Mueller, north of Riverside, west of 183)
 
 ### Questions:
 1. How have income and house values changed over time in both Austin as a whole and in East Austin? 
@@ -23,6 +15,21 @@ Zip Codes: 78721, 78702, 78722, 78723, 78762 <br>
 
 
 ![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
+
+
+### Definition of East Austin: 
+Zip Codes: 78721, 78702, 78722, 78723, 78762 <br>
+(east of 35, south of Mueller, north of Riverside, west of 183)
+
+### Technologies Used
+Python <br>
+Pandas <br>
+Tableau <br>
+
+### Actions and Tasks
+Find and clean the data
+Explore and visualize the data
+Determine if the data proves or disproves the hypothesis 
 
 
 #### Income and House Values
@@ -52,6 +59,9 @@ Add any notes from Amy
 #### Construction Permits
 Insert link to Maria and Priyanka's Tableau <br>
 Add any notes from Maria and Priyanka
+
+
+## Conclusion
 
 
 ##### Main Data Sources: 
