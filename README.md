@@ -31,17 +31,18 @@ https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousing
 Add any notes from Jessica
 <br> <br> <br> 
 
-#### School data: Ethnicity and Academic Performance (STAAR)
-Insert link to Amy's Tableau <br>
+#### School data: Ethnicity and Academic Performance 
+https://public.tableau.com/profile/amy.b1588#!/vizhome/EastAustinSchoolsAnalysis/SchoolsStory <br> 
 
 ##### Ethnic Distribution: 
 The Hispanic/Latino ethnic group, which has traditionally formed the majority in East Austin schools, showed a 5% decline in enrollment in these 5 years. There was an accompanying 5% rise in the White student population. Both trends deviate from other Travis County schools, and indicate a demographic shift in East Austin.
 ![East Austin schools_ethnicity](./Images-for-ReadMe/east_austin_schools_ethnicity.png)
 
-##### Academic Performance: 
-White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the broader East Austin White population. This could be a possible outcome of kids from higher income households coming into the East Austin schools with access to better support and more resources (assuming some join the public school system).
+##### Academic Performance (STAAR test results): 
+White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the local White population in East Austin. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
+![East Austin academic performance](./Images-for-ReadMe/east_austin_schools_acads.png))
 
-Although these findings from schools do not demonstrate poverty being pushed to East Austin, they do indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our hypothesis.
+The above findings indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our initial hypothesis of gentrification in the East Austin neighborhood.
 <br> <br> <br> 
 
 #### School Data: Free and Reduced Lunch
