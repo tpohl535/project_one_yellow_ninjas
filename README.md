@@ -71,3 +71,9 @@ Add any notes from Maria and Priyanka
 2. Section 8 housing: https://data.austintexas.gov/Housing-and-Real-Estate/City-of-Austin-Affordable-Housing-Inventory-AHI-/x5p7-qyuv/data <br>
 3. Schools: https://tea.texas.gov/ <br>
 4. City permits: https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu <br>
+
+<br> <br> <br> 
+
+#### Limitations of Our Data
+1. Free and reduced lunch data was not available for 2015
+2. The school data was structured in terms of school years (August to May), but the other data was structured traditionally (January to December)
