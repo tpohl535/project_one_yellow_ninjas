@@ -8,8 +8,8 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 
 <br> <br> <br> 
 ### Questions:
-1. How have income and house values changed over time in both Austin as a whole and in East Austin? 
-2. Is there more Section 8 housing (government assisted housing) in East Austin compared to the city as a whole, and is the number of units increasing in East Austin? 
+1. How have income and house values changed over time? 
+2. Is there more Section 8 housing (government assisted housing) in East Austin, and is the number of units increasing? 
 3. What does the school data – ethnicity/race, STAAR scores, enrollment, free and reduced lunch - say about poverty in East Austin?
 4. What permits are issued by the city and what do they indicate about poverty in East Austin?
 <br> <br> <br> 
