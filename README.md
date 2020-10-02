@@ -16,8 +16,7 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 
 ### Definitions: 
 Section 8 Housing: The government pays for all or part of a unit's rent on behalf of low income households
-
-<br> <br>
+<br>
 
 East Austin Zip Codes: 78721, 78702, 78722, 78723 <br>
 (East of I-35, south of Hwy-290, north of Riverside, west of Hwy-183)
