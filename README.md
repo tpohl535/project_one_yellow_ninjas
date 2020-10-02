@@ -11,10 +11,11 @@ Poverty will be more concentrated in East Austin in 2015 than the rest of the ci
 ![alt text](https://cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
 
 
-### Definition: 
-East Austin: zip codes: 78721, 78702, 78722, 78723 (east of 35, south of Mueller, north of Riverside, west of 183)
+### Definition of East Austin: 
+Zip Codes: 78721, 78702, 78722, 78723 
+(east of 35, south of Mueller, north of Riverside, west of 183)
 
-### Data Topics:
+### Questions:
 1. How have income and house values changed over time in both Austin as a whole and in East Austin? 
 2. Is there more Section 8/affordable housing in East Austin compared to the city as a whole, and is the number of units increasing in East Austin? 
 3. What does the school data – ethnicity/race, STAAR scores, enrollment, free and reduced lunch - say about poverty in East Austin?
