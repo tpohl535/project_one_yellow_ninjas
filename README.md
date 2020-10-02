@@ -4,32 +4,21 @@
 ## Group Name: 
 Yellow Ninjas
 
-### Topic: 
+## Topic: 
 Gentrification in Austin from 2015-2019
 
 ### Hypothesis: 
-Poverty gets pushed to East Austin, and then pushed out of Austin altogether over time. 
+Poverty will be more concentrated in East Austin in 2015 than the rest of the city, and as time goes on the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether. 
 
 ### Definitions: 
-Poverty – 80/20 rule of median income (? – TBD) <br>
+Poverty – 80/20 rule of median income (? – TBD)
 East Austin – east of 35, south of Mueller, north of Riverside, west of 183
 
 ### Data Topics:
-1. How has income and house values changed over time? (Tyler)
-2. Where is Section 8/affordable housing located and how much is there? (Jessica)
-3. School data – ethnicity/race, STAAR scores, enrollment, free and reduced lunch (Amy, Alicia)
-4. Permits – type of construction, date, number of units built, what locations are the permits for? (Priyanka, Maria)
-
-### Timeline: 
-9/24: Data found
-9/27: Data cleaned, analysis started
-9/29: Data analysis done, visualizations started
-10/1: Finalize projects and visualizations
-10/2: Practice run throughs
-10/3: Presentations
-
-### Github Management:
-Merge Master: Tyler 
+1. How have income and house values changed over time in both Austin as a whole and in East Austin? 
+2. Is there more Section 8/affordable housing in East Austin compared to the city as a whole, and is the number of units increasing in East Austin? 
+3. What does the school data – ethnicity/race, STAAR scores, enrollment, free and reduced lunch - say about poverty in East Austin?
+4. What permits are issued by the city and what do they indicate about poverty in East Austin?
 
 ### Main Data Sources: 
 Topic 1: https://fred.stlouisfed.org/series/ATNHPIUS12420Q
