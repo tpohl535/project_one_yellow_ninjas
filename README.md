@@ -12,7 +12,7 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 
 
 ### Definition of East Austin: 
-Zip Codes: 78721, 78702, 78722, 78723 <br>
+Zip Codes: 78721, 78702, 78722, 78723, 78762 <br>
 (east of 35, south of Mueller, north of Riverside, west of 183)
 
 ### Questions:
@@ -26,36 +26,36 @@ Zip Codes: 78721, 78702, 78722, 78723 <br>
 
 
 #### Income and House Values
-Insert link to Tyler's Tableau
+Insert link to Tyler's Tableau <br>
 Add any notes from Tyler
 
 
 
 #### Section 8 Housing
-Insert link to Jessica's Tableau
+https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysisv5/Analysis <br>
 Add any notes from Jessica
 
 
 
 #### School Data: Free and Reduced Lunch
-Insert link to Alicia's Tableau
+Insert link to Alicia's Tableau <br>
 Add any notes from Alicia
 
 
 
 #### School data: STAAR Scores and Ethnicity
-Insert link to Amy's Tableau
+Insert link to Amy's Tableau <br>
 Add any notes from Amy
 
 
 
 #### Construction Permits
-Insert link to Maria and Priyanka's Tableau
+Insert link to Maria and Priyanka's Tableau <br>
 Add any notes from Maria and Priyanka
 
 
 ##### Main Data Sources: 
-1. Income and house values: https://fred.stlouisfed.org/series/ATNHPIUS12420Q
-2. Section 8 housing: https://data.austintexas.gov/Housing-and-Real-Estate/City-of-Austin-Affordable-Housing-Inventory-AHI-/x5p7-qyuv/data
-3. Schools: https://tea.texas.gov/
-4. City permits: https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu
+1. Income and house values: https://fred.stlouisfed.org/series/ATNHPIUS12420Q <br>
+2. Section 8 housing: https://data.austintexas.gov/Housing-and-Real-Estate/City-of-Austin-Affordable-Housing-Inventory-AHI-/x5p7-qyuv/data <br>
+3. Schools: https://tea.texas.gov/ <br>
+4. City permits: https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu <br>
