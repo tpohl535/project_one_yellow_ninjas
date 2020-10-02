@@ -1,11 +1,8 @@
-# project_one_yellow_ninjas
+# Gentrification in East Austin from 2015-2019
 
 
 ## Group Name: 
 Yellow Ninjas
-
-## Topic: 
-Gentrification in East Austin from 2015-2019
 
 ### Hypothesis: 
 Poverty will be more concentrated in East Austin in 2015 than the rest of the city, and as time goes on the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether. 
