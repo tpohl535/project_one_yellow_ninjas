@@ -12,7 +12,7 @@ Poverty will be more concentrated in East Austin in 2015 than the rest of the ci
 
 
 ### Definition of East Austin: 
-Zip Codes: 78721, 78702, 78722, 78723 
+Zip Codes: 78721, 78702, 78722, 78723 <br>
 (east of 35, south of Mueller, north of Riverside, west of 183)
 
 ### Questions:
