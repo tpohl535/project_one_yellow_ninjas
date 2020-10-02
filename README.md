@@ -39,9 +39,10 @@ The Hispanic/Latino ethnic group, which has traditionally formed the majority in
 ![East Austin schools_ethnicity](./Images-for-ReadMe/east_austin_schools_ethnicity.png)
 
 ##### Academic Performance: 
-White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the broader East Austin White population. This could be a possible outcome of kids from higher income households coming into the East Austin schools with access to better support and more resources (assuming some join the public school system).
+White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the local White population in East Austin. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
+![East Austin academic performance](./Images-for-ReadMe/east_austin_schools_ethnicity.png))
 
-Although these findings from schools do not demonstrate poverty being pushed to East Austin, they do indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our hypothesis.
+The above findings indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our initial hypothesis of gentrification in the East Austin neighborhood.
 <br> <br> <br> 
 
 #### School Data: Free and Reduced Lunch
