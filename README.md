@@ -43,15 +43,15 @@ Add any notes from Jessica
 <br> <br> <br> 
 
 
-#### School Data: Free and Reduced Lunch
-Insert link to Alicia's Tableau <br>
-Add any notes from Alicia
-<br> <br> <br> 
-
-
 #### School data: STAAR Scores and Ethnicity
 Insert link to Amy's Tableau <br>
 Add any notes from Amy
+<br> <br> <br> 
+
+
+#### School Data: Free and Reduced Lunch
+Insert link to Alicia's Tableau <br>
+Add any notes from Alicia
 <br> <br> <br> 
 
 
@@ -61,10 +61,9 @@ Add any notes from Maria and Priyanka
 <br> <br> <br> 
 
 ## Conclusion
+It seems like the window for gentrification concentrating poverty to East Austin has already passed, and now we're in the phase of gentrificatin pushing people out of Austin altogether. 
+<br> <br> <br>
 
-
-
-<br> <br> <br> 
 ![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
 <br> <br> <br> 
 
