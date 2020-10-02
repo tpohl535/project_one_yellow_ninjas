@@ -7,9 +7,9 @@ Yellow Ninjas
 ## Topic: 
 Gentrification in East Austin from 2015-2019
 
-![alt text](https://images.app.goo.gl/zwgqj4nR5ezqpDyd8)
+![alt text](cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
 
-![alt text]https://images.app.goo.gl/DiMqAcCJn7otTDFcA
+![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
 
 ### Hypothesis: 
 Poverty will be more concentrated in East Austin in 2015 than the rest of the city, and as time goes on the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether. 
