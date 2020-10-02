@@ -46,7 +46,7 @@ Although these findings from schools do not demonstrate poverty being pushed to 
 
 #### School Data: Free and Reduced Lunch
 https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/PovertyLevelsinAustinISDSchools?publish=yes <br>
-Add any notes from Alicia
+![AISD_schools_map](./Images-for-ReadMe/aisd_map_low_income_percentages.png) 
 <br> <br> <br> 
 
 #### Construction Permits
@@ -68,6 +68,7 @@ It seems like the window for gentrification concentrating poverty to East Austin
 - Pandas <br>
 - Tableau <br>
 - Jupyter Notebook <br>
+- Google Maps Platform Geocoding API <br>
 <br> <br> <br> 
 
 #### Actions and Tasks
@@ -80,13 +81,13 @@ Determine if the data proves or disproves the hypothesis. <br>
 ##### Main Data Sources: 
 1. Income and house values: https://fred.stlouisfed.org/series/ATNHPIUS12420Q <br>
 2. Section 8 housing: https://data.austintexas.gov/Housing-and-Real-Estate/City-of-Austin-Affordable-Housing-Inventory-AHI-/x5p7-qyuv/data <br>
-3. Schools: https://tea.texas.gov/ <br>
+3. Schools: https://tea.texas.gov/ , https://data.texas.gov/ <br>
 4. City permits: https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu <br>
 
 <br> <br> <br> 
 
 #### Limitations of Our Data
-1. Free and reduced lunch data was not available for 2015.
+1. Free and reduced lunch data was not available for 2014 - 2015 school year.
 2. The school data was structured in terms of school years (August to May), but the other data was structured traditionally (January to December).
 3. No relavant data was available for zipcode 78762, a small area embedded within 78702. 
 
