@@ -38,24 +38,20 @@ Insert link to Tyler's Tableau <br>
 Add any notes from Tyler
 <br> <br> <br> 
 
-
 #### Section 8 Housing
 https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysisv5/Analysis <br>
 Add any notes from Jessica
 <br> <br> <br> 
 
-
-#### School data: STAAR Scores and Ethnicity
+#### School data: Ethnicity and Academic Performance (STAAR)
 Insert link to Amy's Tableau <br>
 Add any notes from Amy
 <br> <br> <br> 
-
 
 #### School Data: Free and Reduced Lunch
 Insert link to Alicia's Tableau <br>
 Add any notes from Alicia
 <br> <br> <br> 
-
 
 #### Construction Permits
 Insert link to Maria and Priyanka's Tableau <br>
