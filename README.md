@@ -55,7 +55,7 @@ Insert link to Maria and Priyanka's Tableau <br>
 Add any notes from Maria and Priyanka
 ![commercial vs residential permits](./Images-for-ReadMe/Overall-Comm-vs-Residential-EA.jpg)
 <br> <br> <br> 
-
+https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes
 ## Conclusion
 It seems like the window for gentrification concentrating poverty to East Austin has already passed, and now we're in the phase of gentrificatin pushing people out of Austin altogether. 
 <br> <br> <br>
