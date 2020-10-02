@@ -19,7 +19,6 @@ Section 8 Housing: The government pays for all or part of a unit's rent on behal
 <br>
 
 East Austin Zip Codes: 78721, 78702, 78722, 78723 <br>
-(East of I-35, south of Hwy-290, north of Riverside, west of Hwy-183)
 
 ![East Austin Zipcodes Used](./Images-for-ReadMe/east_austin_zipcodes.png)
 
