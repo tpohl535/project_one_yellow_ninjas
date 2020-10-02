@@ -5,7 +5,7 @@
 Yellow Ninjas
 
 ### Hypothesis: 
-Poverty will be more concentrated in East Austin in 2015 than the rest of the city, and as time goes on the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether. 
+Poverty will be more concentrated in East Austin in 2015 as compared to the rest of the city, and as time goes on the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether. 
 
 
 ![alt text](https://cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
