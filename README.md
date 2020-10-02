@@ -7,7 +7,7 @@ Yellow Ninjas
 ## Topic: 
 Gentrification in East Austin from 2015-2019
 
-![alt text](cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
+![alt text](https://cartoonistgroup.com/properties/speedbump/art_images/cg595019b273ade.jpg)
 
 ![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
 
