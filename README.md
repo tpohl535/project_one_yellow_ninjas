@@ -14,11 +14,14 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 4. What permits are issued by the city and what do they indicate about poverty in East Austin?
 <br> <br> <br> 
 
-### Definition of East Austin: 
-Zip Codes: 78721, 78702, 78722, 78723 <br>
+### Definitions: 
+East Austin Zip Codes: 78721, 78702, 78722, 78723 <br>
 (East of I-35, south of Hwy-290, north of Riverside, west of Hwy-183)
 
 ![East Austin Zipcodes Used](./Images-for-ReadMe/east_austin_zipcodes.png)
+<br> <br>
+
+Section 8 Housing: The government pays for all or part of a unit's rent on behalf of low income households
 <br> <br> <br> 
 
 ### Technologies Used
