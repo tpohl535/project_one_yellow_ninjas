@@ -45,7 +45,7 @@ Although these findings from schools do not demonstrate poverty being pushed to 
 <br> <br> <br> 
 
 #### School Data: Free and Reduced Lunch
-Insert link to Alicia's Tableau <br>
+https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/PovertyLevelsinAustinISDSchools?publish=yes <br>
 Add any notes from Alicia
 <br> <br> <br> 
 
