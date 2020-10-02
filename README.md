@@ -20,15 +20,15 @@ Zip Codes: 78721, 78702, 78722, 78723, 78762 <br>
 
 
 ### Technologies Used
-Python <br>
-Pandas <br>
-Tableau <br>
+- Python <br>
+- Pandas <br>
+- Tableau <br>
 
 
 ### Actions and Tasks
-Find and clean the data
-Explore and visualize the data
-Determine if the data proves or disproves the hypothesis 
+Find and clean the data <br>
+Explore and visualize the data <br>
+Determine if the data proves or disproves the hypothesis  <br>
 
 
 #### Income and House Values
