@@ -15,26 +15,15 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 <br> <br> <br> 
 
 ### Definitions: 
+Section 8 Housing: The government pays for all or part of a unit's rent on behalf of low income households
+
+<br> <br>
+
 East Austin Zip Codes: 78721, 78702, 78722, 78723 <br>
 (East of I-35, south of Hwy-290, north of Riverside, west of Hwy-183)
 
 ![East Austin Zipcodes Used](./Images-for-ReadMe/east_austin_zipcodes.png)
-<br> <br>
 
-Section 8 Housing: The government pays for all or part of a unit's rent on behalf of low income households
-<br> <br> <br> 
-
-### Technologies Used
-- Python <br>
-- Pandas <br>
-- Tableau <br>
-- Jupyter Notebook <br>
-<br> <br> <br> 
-
-### Actions and Tasks
-Find and clean the data. <br>
-Explore and visualize the data. <br>
-Determine if the data proves or disproves the hypothesis. <br>
 <br> <br> <br> 
 
 #### Income and House Values
@@ -77,6 +66,21 @@ It seems like the window for gentrification concentrating poverty to East Austin
 
 ![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
 <br> <br> <br> 
+
+
+#### Technologies Used
+- Python <br>
+- Pandas <br>
+- Tableau <br>
+- Jupyter Notebook <br>
+<br> <br> <br> 
+
+#### Actions and Tasks
+Find and clean the data. <br>
+Explore and visualize the data. <br>
+Determine if the data proves or disproves the hypothesis. <br>
+<br> <br> <br> 
+
 
 ##### Main Data Sources: 
 1. Income and house values: https://fred.stlouisfed.org/series/ATNHPIUS12420Q <br>
