@@ -14,17 +14,16 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 4. What permits are issued by the city and what do they indicate about poverty in East Austin?
 
 
-![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
-
-
 ### Definition of East Austin: 
 Zip Codes: 78721, 78702, 78722, 78723, 78762 <br>
 (east of 35, south of Mueller, north of Riverside, west of 183)
+
 
 ### Technologies Used
 Python <br>
 Pandas <br>
 Tableau <br>
+
 
 ### Actions and Tasks
 Find and clean the data
@@ -62,6 +61,9 @@ Add any notes from Maria and Priyanka
 
 
 ## Conclusion
+
+
+![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
 
 
 ##### Main Data Sources: 
