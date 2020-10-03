@@ -8,7 +8,7 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 
 <br> <br> <br> 
 ### Our Questions (i.e. measures of gentrification):
-1. How have income and house values changed over time? 
+1. How have housing values changed over time? 
 2. Is there more Section 8 housing (government assisted housing) in East Austin, and is the number of units increasing? 
 3. What does the school data say about poverty in East Austin?
 4. What permits are issued by the city and what do they indicate about poverty in East Austin?
