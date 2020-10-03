@@ -56,8 +56,15 @@ Add any notes from Maria and Priyanka
 ![commercial vs residential permits](./Images-for-ReadMe/Overall-Comm-vs-Residential-EA.jpg)
 <br> <br> <br> 
 https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes
+
 ## Conclusion
-It seems like the window for gentrification concentrating poverty to East Austin has already passed, and now we're in the phase of gentrificatin pushing people out of Austin altogether. 
+
+There is more poverty on the east side when looking at some aspects: The house prices are lower on the east side than the rest of the city and east of 35 there are more low income students in schools. However, there is not a higher concentration of Section 8 housing on the east side, which disproves the hypothesis. 
+
+There are many aspects that show evidence of gentrification: House prices in east Austin are increasing, certain ethnic groups are being pushed out and (probable) higher income households and ethnicities are replacing them, Section 8 housing is being pushed to the outskirts of the city, and there is an increased amount of residential construction permits. However, there is not a decline in schools for students who are in low income households on the east side and commercial construction permits have decreased, which disproves the hypothesis. 
+
+
+
 <br> <br> <br>
 
 ![alt text](https://i2.wp.com/jensorensen.com/wp-content/uploads/2013/04/gentrification.png?fit=600%2C616&ssl=1)
