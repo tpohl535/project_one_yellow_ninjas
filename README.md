@@ -49,9 +49,9 @@ https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/Po
 
 #### Construction Permits
 Insert link to Maria and Priyanka's Tableau <br>
-Add any notes from Maria and Priyanka
-<br> <br> <br> 
 https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes
+
+Add any notes from Maria and Priyanka
 
 ## Conclusion
 
