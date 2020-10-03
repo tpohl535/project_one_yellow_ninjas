@@ -29,7 +29,7 @@ According to the data, East Austin and Austin as a whole has experienced an incr
 <br> <br> 
 
 #### Section 8 Housing
-https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysisv5/Analysis <br>
+https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysis-Final/Analysis?publish=yes <br>
 
 There is not a higher concentration of Section 8 housing (government assisted housing) on the east side when compared to the rest of Austin, either by number of units or density of units. Also, as time goes on, more units are added to the outskirts of the city.
 
