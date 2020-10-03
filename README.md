@@ -26,13 +26,14 @@ https://public.tableau.com/profile/tyler.pohl#!/vizhome/ProjectOneHouseingData/S
 
 According to the data, East Austin and Austin as a whole has experienced an increase in average home value. When looking specifically at East Austin, we see some of the largest growth in the area that far outpaces the national average for increase in home value. In relation to our hypothesis and according to the data, it appears poverty in East Austin has been pushed out almost entirely. 
 
-<br> <br> <br> 
+<br> <br> 
 
 #### Section 8 Housing
 https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysisv5/Analysis <br>
 
 There is not a higher concentration of Section 8 housing (government assisted housing) on the east side when compared to the rest of Austin, either by number of units or density of units. Also, as time goes on, more units are added to the outskirts of the city.
-<br> <br> <br> 
+
+<br> <br> 
 
 #### School data: Ethnicity and Academic Performance 
 https://public.tableau.com/profile/amy.b1588#!/vizhome/EastAustinSchoolsAnalysis/SchoolsStory <br> 
@@ -44,11 +45,11 @@ The Hispanic/Latino ethnic group, which has traditionally formed the majority in
 White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the local White population in East Austin. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
 
 The above findings indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our initial hypothesis of gentrification in the East Austin neighborhood.
-<br> <br> <br> 
+<br> <br> 
 
 #### School Data: Free and Reduced Lunch
 https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/PovertyLevelsinAustinISDSchools?publish=yes <br>
-<br> <br> <br> 
+<br> <br> 
 
 #### Construction Permits
 https://public.tableau.com/profile/maria.alzaga#!/vizhome/AustinPermits_16017283195670/AustinPermits?publish=yes
