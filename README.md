@@ -30,16 +30,17 @@ According to the data, East Austin and Austin as a whole has experienced an incr
 
 #### Section 8 Housing
 https://public.tableau.com/profile/jessica.bates#!/vizhome/Section8AustinHousingAnalysisv5/Analysis <br>
-Add any notes from Jessica
+
+There is not a higher concentration of Section 8 housing (government assisted housing) on the east side when compared to the rest of Austin, either by number of units or density of units. Also, as time goes on, more units are added to the outskirts of the city.
 <br> <br> <br> 
 
 #### School data: Ethnicity and Academic Performance 
 https://public.tableau.com/profile/amy.b1588#!/vizhome/EastAustinSchoolsAnalysis/SchoolsStory <br> 
 
-##### Ethnic Distribution: 
+###### Ethnic Distribution: 
 The Hispanic/Latino ethnic group, which has traditionally formed the majority in East Austin schools, showed a 5% decline in enrollment in these 5 years. There was an accompanying 5% rise in the White student population. Both trends deviate from other Travis County schools, and indicate a demographic shift in East Austin.
 
-##### Academic Performance (STAAR test results): 
+###### Academic Performance (STAAR test results): 
 White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the local White population in East Austin. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
 
 The above findings indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our initial hypothesis of gentrification in the East Austin neighborhood.
