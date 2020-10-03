@@ -10,7 +10,7 @@ Poverty will be more concentrated in East Austin in 2015 as compared to the rest
 ### Our Questions (i.e. measures of gentrification):
 1. How have housing values changed over time? 
 2. Is there more Section 8 housing (government assisted housing) in East Austin, and is the number of units increasing? 
-3. What does the school data say about poverty in East Austin?
+3. What does the school data say about demographics and poverty in East Austin?
 4. What permits are issued by the city and what do they indicate about poverty in East Austin?
 <br> <br> <br> 
 
@@ -42,7 +42,7 @@ https://public.tableau.com/profile/amy.b1588#!/vizhome/EastAustinSchoolsAnalysis
 The Hispanic/Latino ethnic group, which has traditionally formed the majority in East Austin schools, showed a 5% decline in enrollment in these 5 years. There was an accompanying 5% rise in the White student population. Both trends deviate from other Travis County schools, and indicate a demographic shift in East Austin.
 
 ###### Academic Performance (STAAR test results): 
-White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the local White population in East Austin. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
+White students show significant improvement of 30% in STAAR passing rates over these 5 years. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
 
 The above findings indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our initial hypothesis of gentrification in the East Austin neighborhood.
 <br> <br> 
