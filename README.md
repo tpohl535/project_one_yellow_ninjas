@@ -89,7 +89,7 @@ Determine if the data proves or disproves the hypothesis. <br>
 
 
 ##### Main Data Sources: 
-1. Income and house values: https://fred.stlouisfed.org/series/ATNHPIUS12420Q <br>
+1. Income and house values: https://www.bridgeinteractive.com/developers/bridge-api/ <br>
 2. Section 8 housing: https://data.austintexas.gov/Housing-and-Real-Estate/City-of-Austin-Affordable-Housing-Inventory-AHI-/x5p7-qyuv/data <br>
 3. Schools: https://tea.texas.gov/ , https://data.texas.gov/ <br>
 4. City permits: https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu <br>
