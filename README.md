@@ -36,24 +36,20 @@ https://public.tableau.com/profile/amy.b1588#!/vizhome/EastAustinSchoolsAnalysis
 
 ##### Ethnic Distribution: 
 The Hispanic/Latino ethnic group, which has traditionally formed the majority in East Austin schools, showed a 5% decline in enrollment in these 5 years. There was an accompanying 5% rise in the White student population. Both trends deviate from other Travis County schools, and indicate a demographic shift in East Austin.
-![East Austin schools_ethnicity](./Images-for-ReadMe/east_austin_schools_ethnicity.png)
 
 ##### Academic Performance (STAAR test results): 
 White students show significant improvement in academic performance compared to others over these 5 years, indicating a shift in the local White population in East Austin. This could be a possible outcome of kids from higher income households with access to better support and more resources coming into schools in the area (assuming at least some join the public school system in AISD).
-![East Austin academic performance](./Images-for-ReadMe/east_austin_schools_acads.png))
 
 The above findings indicate that certain ethnic groups are getting pushed out of East Austin over time -- thus, partially supporting our initial hypothesis of gentrification in the East Austin neighborhood.
 <br> <br> <br> 
 
 #### School Data: Free and Reduced Lunch
 https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/PovertyLevelsinAustinISDSchools?publish=yes <br>
-![AISD_schools_map](./Images-for-ReadMe/aisd_map_low_income_percentages.png) 
 <br> <br> <br> 
 
 #### Construction Permits
 Insert link to Maria and Priyanka's Tableau <br>
 Add any notes from Maria and Priyanka
-![commercial vs residential permits](./Images-for-ReadMe/Overall-Comm-vs-Residential-EA.jpg)
 <br> <br> <br> 
 https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes
 
