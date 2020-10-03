@@ -21,9 +21,11 @@ Zip Codes: 78721, 78702, 78722, 78723 <br>
 
 <br> <br> <br> 
 
-#### Income and House Values
-Insert link to Tyler's Tableau <br>
-Add any notes from Tyler
+#### House Values
+https://public.tableau.com/profile/tyler.pohl#!/vizhome/ProjectOneHouseingData/Story2?publish=yes 
+
+According to the data, East Austin and Austin as a whole has experienced an increase in average home value. When looking specifically at East Austin, we see some of the largest growth in the area that far outpaces the national average for increase in home value. In relation to our hypothesis and according to the data, it appears poverty in East Austin has been pushed out almost entirely. 
+
 <br> <br> <br> 
 
 #### Section 8 Housing
