@@ -52,7 +52,9 @@ https://public.tableau.com/profile/alicia.pelkey#!/vizhome/SchoolDataStarters/Po
 <br> <br> 
 
 #### Construction Permits
+
 https://public.tableau.com/profile/maria.alzaga#!/vizhome/AustinPermits_16017283195670/AustinPermits?publish=yes
+
 https://public.tableau.com/profile/priyanka.garg2578#!/vizhome/EastAustinPermits/Story2?publish=yes
 According to the data, East Austin and Austin as a whole has experienced an increase in permits issued. Overall there is a constant growth is seen in the areas of residential sector in year 2018-2019 in zipcode 78702 and 78722. Based on dataset available - yes, there is a small % change has been seen in some parts but due to lack of data available in some parts of east austin and commercial construction permits have decreased, which disproves the hypothesis, the poverty level in East Austin with time is unpredictable.
 <br> <br> <br> 
